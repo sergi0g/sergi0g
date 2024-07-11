@@ -18,7 +18,7 @@ and building open source projects that make people's lives easier.
     <br>
     <p>I work with</p>
     <div style="display: flex; justify-content: center; gap: 1rem;">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/ce334b5bda8d8d054cfde7ce35caf40651078a28/icons/visualstudiocode.svg">
     <img height="32" width="32" src="https://cdn.simpleicons.org/docker">
     <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss">
     <img height="32" width="32" src="https://cdn.simpleicons.org/react">
