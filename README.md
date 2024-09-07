@@ -13,7 +13,7 @@ and building open source projects that make people's lives easier.
     <div style="display: flex; justify-content: center; gap: 1rem;">
     <img height="32" width="32" src="https://cdn.simpleicons.org/typescript">
     <img height="32" width="32" src="https://cdn.simpleicons.org/python">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/rust">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/rust/_/ffffff">
     </div>
     <br>
     <p>I work with</p>
@@ -25,7 +25,7 @@ and building open source projects that make people's lives easier.
     <img height="32" width="32" src="https://cdn.simpleicons.org/django">
     <img height="32" width="32" src="https://cdn.simpleicons.org/fishshell">
     <img height="32" width="32" src="https://cdn.simpleicons.org/git">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/_/ffffff">
     </div>
 </div>
 
