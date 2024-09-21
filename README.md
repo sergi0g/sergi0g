@@ -5,6 +5,7 @@
 ```
 I am a hobbyist developer and Linux nerd exploring the world of programming
 and building open source projects that make people's lives easier.
+I use arch btw.
 ```
 
 <div align="center">
